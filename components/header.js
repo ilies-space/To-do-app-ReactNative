@@ -16,7 +16,7 @@ export default function Header() {
     header : {
       height : 80,
       paddingTop : 38,
-      backgroundColor : 'coral',
+      backgroundColor : '#f5cd79',
     },
     title : {
       textAlign : "center",
